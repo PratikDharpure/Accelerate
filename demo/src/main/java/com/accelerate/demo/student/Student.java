@@ -1,5 +1,7 @@
-package com.accelerate.demo;
+package com.accelerate.demo.student;
 
+import com.accelerate.demo.school.School;
+import com.accelerate.demo.studentprofile.StudentProfile;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 

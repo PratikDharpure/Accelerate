@@ -1,5 +1,6 @@
-package com.accelerate.demo;
+package com.accelerate.demo.student;
 
+import com.accelerate.demo.school.School;
 import org.springframework.stereotype.Service;
 
 @Service

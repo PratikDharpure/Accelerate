@@ -1,5 +1,6 @@
-package com.accelerate.demo;
+package com.accelerate.demo.studentprofile;
 
+import com.accelerate.demo.student.Student;
 import jakarta.persistence.*;
 
 @Entity

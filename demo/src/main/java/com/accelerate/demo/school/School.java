@@ -1,5 +1,6 @@
-package com.accelerate.demo;
+package com.accelerate.demo.school;
 
+import com.accelerate.demo.student.Student;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

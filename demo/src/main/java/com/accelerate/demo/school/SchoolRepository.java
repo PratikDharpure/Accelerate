@@ -1,4 +1,4 @@
-package com.accelerate.demo;
+package com.accelerate.demo.school;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
